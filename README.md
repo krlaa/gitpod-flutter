@@ -20,8 +20,8 @@ With the release of Flutter 2.0 the Flutter team has included support for Flutte
 *I strongly recommend anyone using this repo's dev branch to install [device_preview](https://pub.dev/packages/device_preview) package into their for a better experience.*
 # Setup 
 ### Once the gitpod container finishes loading up follow these steps:
-1. Open up the folder called "flutter_project" then open up the folder called "lib" the select and open main.dart.
-2. Press F5 to activate debug mode (Alternatively you can run flutter run -d linux to manually control reloads)
+1. Open up the folder called "flutter_project" then open up the folder called "lib" the select and open main.dart. cd flutter_project
+2. Press F5 to activate debug mode (Alternatively you can run flutter run -d linux to manually control reloads) 
 3. Once debug mode loads click on the ports button on the bottom of the code editor to open "Ports View":
 ![Access the port view](https://i.ibb.co/L9zKDRK/indication.png)
 *This is to access the ports section in gitpod*
